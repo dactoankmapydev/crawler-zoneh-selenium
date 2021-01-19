@@ -1,0 +1,3 @@
+- [](https://testdriven.io/blog/building-a-concurrent-web-scraper-with-python-and-selenium/)
+- [](https://github.com/testdrivenio/concurrent-web-scraping)
+- [](https://nguyenvanhieu.vn/cai-dat-moi-truong-selenium-voi-python/)
